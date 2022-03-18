@@ -2,4 +2,4 @@
 touch up_to_date.txt
 git add . 
 git commit -m 'Added new file via GitHub Web'
-git push
+git push origin
